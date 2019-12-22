@@ -1,6 +1,8 @@
 # Console_Notepad
 a simple console based notepad for the tech savei peoples 
 
+please download the exe file in the releases section 
+
 the notes are auto saved in the notes.txt which is located in the same directory as of the program itself 
 you can place it on the destop and change the icon so that it looks nice:)
 
